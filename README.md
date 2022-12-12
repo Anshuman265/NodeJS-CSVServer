@@ -5,7 +5,7 @@ Simple node-based CSV adapter for Grafana Simple JSON data source
 
 This is a simple node application to read table or timeseries formatted CSV files as JSON, suitable for Grafana's SimpleJSON data source.
 
-CSVServer is really intended for testing and demonstration purposes - not really recommended for production environments where efficiency and robustness are needed.  It works though and does something no other system seems to do.
+NOTE - CSVServer is really intended for testing and demonstration purposes
 
 ## Installation/setup
 
