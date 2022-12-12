@@ -42,7 +42,7 @@ const usage = commandLineUsage([
 		optionList: optionDefinitions
 	},
 	{
-		content: 'Project home: {underline https://github.com/michaeldmoore/CSVServer}'
+		content: 'Project home: {underline https://github.com/Anshuman265/NodeJS-CSVServer}'
 	}
 ]);
 
